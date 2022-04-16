@@ -8,7 +8,12 @@
 * [Reward](https://github.com/rewardenv/reward), Orchestrating Docker Development Environments
 * [Gitea LDAP Sync](https://github.com/janosmiko/gitea-ldap-sync), Synchronize your users, members and organizations between LDAP and Gitea
 
-**[Sponsor me](https://github.com/sponsors/janosmiko) if you like my work!**
+<!-- **[Sponsor me](https://github.com/sponsors/janosmiko) if you like my work!**) -->
+
+[![Buy Me A Coffee ☕](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/janosmiko)
+
+[![Patreon](https://img.shields.io/badge/Donate-Patreon-red.svg)](https://www.patreon.com/janosmiko)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LUCSKSMFENMHN)
 
 ![](https://github-readme-stats.vercel.app/api?username=janosmiko&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&theme=monokai)
 
