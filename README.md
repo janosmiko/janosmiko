@@ -10,7 +10,7 @@
 
 **[Sponsor me](https://github.com/sponsors/janosmiko) if you like my work!**
 
-![](https://github-readme-stats.vercel.app/api?username=janosmiko&count_private=true&include_all_commits=true&role=OWNER,COLLABORATOR&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=janosmiko&count_private=true&include_all_commits=true&show_icons=true&hide_title=true&theme=monokai)
 
 ---
 
