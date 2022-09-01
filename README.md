@@ -6,6 +6,7 @@
 </p>
 
 * [Reward](https://github.com/rewardenv/reward), Orchestrating Docker Development Environments
+* [Hetzner-K3s](https://github.com/janosmiko/hetzner-k3s), Create an autoscaling, HA Kubernetes (k3s) cluster in Hetzner Cloud in minutes.
 * [Gitea LDAP Sync](https://github.com/janosmiko/gitea-ldap-sync), Synchronize your users, members and organizations between LDAP and Gitea
 
 <!-- **[Sponsor me](https://github.com/sponsors/janosmiko) if you like my work!**) -->
