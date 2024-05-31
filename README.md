@@ -20,4 +20,4 @@
 
 ---
 
-[About me](https://janosmiko.com) | Lead DevOps Engineer [@ITG Commerce](https://itgcommerce.com) for 4+ years
+[About me](https://janosmiko.com) | Lead DevOps Engineer [@ITG Commerce](https://itgcommerce.com) for 5+ years
