@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://janosmiko.com"><img height="50px" alt="Janos Miko Personal Website" src="https://github.com/janosmiko/janosmiko.github.io/raw/main/static/apple-icon-180x180.png"></img></a>
-  <a href="https://rewardenv.readthedocs.io/en/latest/"><img height="50px" alt="Reward - Orchestrating Docker Development Environments" src="https://rewardenv.readthedocs.io/en/latest/_static/reward-icon-128x128.png"></img></a>
-</p>
-
-* [Reward](https://github.com/rewardenv/reward), Orchestrating Docker Development Environments
-* [Vau](https://github.com/janosmiko/vau), Vault navigator
 * [LFK](https://github.com/janosmiko/lfk), Lightning Fast Kubernetes navigator
+* [Vau](https://github.com/janosmiko/vau), Vault navigator
+* [Reward](https://github.com/rewardenv/reward), Orchestrating Docker Development Environments
 
 <!-- **[Sponsor me](https://github.com/sponsors/janosmiko) if you like my work!**) -->
 
